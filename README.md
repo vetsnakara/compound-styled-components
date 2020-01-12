@@ -1,4 +1,4 @@
-# 'Compound Components' design pattern with styled-components
+## 'Compound Components' React design pattern (with styled-components)
 
 [![Edit compound-styled-components](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/vetsnakara/compound-styled-components/tree/master/?fontsize=14&hidenavigation=1&theme=dark)
 
