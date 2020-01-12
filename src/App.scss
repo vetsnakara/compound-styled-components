@@ -1,25 +1,27 @@
 /* ==========================================================================
    COMPOUND COMPONENTS
    ========================================================================== */
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900");
 
 /* RESETS
 ============================================ */
 
 html {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   -webkit-box-sizing: inherit;
-          box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
   margin: 20px 0;
   padding: 0;
   line-height: 1;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #202020;
   background-color: #fbfbfb;
   font-smooth: always;
@@ -34,6 +36,6 @@ main {
   justify-content: center;
 }
 
-.mr {
+.mr:not(:last-child) {
   margin-right: 20px;
 }
